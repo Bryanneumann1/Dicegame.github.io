@@ -1,0 +1,52 @@
+body{background-image: url("10.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;}
+div.dice1{
+		float: left;
+		width: 60px;
+		text-align: center;
+		background:#FFFFF1;
+		border:black 2px solid;
+		padding:40px;
+		font-size: 60px;
+		margin:5px;
+	}
+div.dice2{
+		float: right;
+		width: 60px;
+		text-align: center;
+		background:#FFFFF5;
+		border:black 2px solid;
+		padding:40px;
+		font-size: 60px;
+		margin:5px;
+	}
+
+p {font-size: 500%;
+	font-color:ghostwhite;
+	}
+
+b.buttonPadding1{
+	padding-left: 1px;
+}
+
+
+
+b.buttonPadding2{
+	float: right;
+}
+
+.moveStatus{
+	font-size: 30px;
+	font-color:white;
+
+}
+
+.moveStatus1{
+	float: right;
+	font-size: 30px;
+	font-color:white;
+
+
+
+	
